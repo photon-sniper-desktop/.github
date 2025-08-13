@@ -18,7 +18,6 @@ A quick look at key parts in action:
 ![Overview Screenshot 1](https://solanatradingbots.com/wp-content/uploads/2024/03/Scherm%C2%ADafbeelding-2024-03-19-om-18.24.28.png)  
 ![Overview Screenshot 2](https://photon-sol.tinyastro.io/assets/home/screen_en-b812b40e5d5992a06e21ea787548c1a079c86d726bd17ad35146b5b652033117.png)  
 ![Overview Screenshot 3](https://photon-sol.tinyastro.io/assets/home/screen1_en-007905f3e3109f4709b6d701d1652faef914e9684cf98f2c24ad89bde2bb3c8e.png)  
-![Overview Screenshot 4](https://via.placeholder.com/800x450.png?text=Quick+Buy+Function)  
 
 ## ​ Key Features
 ⚡ **Ultra-Fast Execution:** Sniping with minimal delay for high-speed token capture.  
